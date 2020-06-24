@@ -138,10 +138,10 @@ async def amireallyalive(alive):
                      f"Telethon version: {version.__version__} \n"
                      f"P̳y̳t̳h̳o̳n̳ ̳v̳e̳r̳s̳i̳o̳n̳: {python_version()} \n"
                      f"------------------------------------ \n"
-                     f"Link: https://t.me/dedasfuck \n"
+                     f"Link: https://t.me/l_o_k_e \n"
                      f"Owner: {DEFAULTUSER} \n"
-                     f"Maintainer: Yash \n"
-                     f"Admin : Yash` \n"
+                     f"Maintainer: Lokesh \n"
+                     f"Admin : Lokesh` \n"
                      f"Userbot: Codeine "
                      )    
 
