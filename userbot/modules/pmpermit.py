@@ -18,9 +18,9 @@ from userbot.events import register
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
     "`Hey! Are you really here because I allowed you ? .\n\n`"
-    "`If you're not a expected person in my DM's, please ask or tag me in the group`"
-    "`Type in the fuckin' reason why are you here ? \n\n`"
-    "`Until then, don't spam mothafucka, you'll get blocked and reported if you do so! K THANKS BYE`")
+    "`please ask or tag me in the group`"
+    "`Type the' reason why are you here ? \n\n`"
+    "`Wait until I approve, you'll get blocked and reported if you do so! K THANKS BYE`")
 # =================================================================
 
 
